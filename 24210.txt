@@ -654,7 +654,7 @@ mistaken sometimes."
 "They have been wicked, often," said Hester, in a low voice.  "I have
 sometimes thought that I must be hopelessly bad, when I have found that
 the strongest affection I have in the world has made me unjust and cruel
-to the pet son I love best.  I have a jealous temper, Margaret; and a
+to the person I love best.  I have a jealous temper, Margaret; and a
 jealous temper is a wicked temper."
 
 "Now you are unkind to yourself, Hester.  I do believe you will never
@@ -1113,7 +1113,7 @@ the contrary."
 The restraint did not amount to this.  Hester's chair was placed
 opposite to Mrs Grey, who seemed to have pleasure in gazing at her, and
 in indulging in audible hints and visible winks and nods about her
-beauty, to every lady visitor who eat near her.  Margaret might place
+beauty, to every lady visitor who sat near her.  Margaret might place
 herself where she pleased.  In the intervals of the visits of the
 morning, she was treated with a diversity of entertainments by Sophia,
 who occasionally summoned her to the window to see how Matilda Rowland
@@ -2087,9 +2087,8 @@ been on a sofa."
 "I wish you would all go to sleep, or else walk off," said Sydney.  "You
 make so much noise I shall never catch any fish."
 
-"Suppose you were to go somewhere else," said Mr Enderby.
-
-"Would not that be rather more civil than sending us all away?"
+"Suppose you were to go somewhere else," said Mr Enderby. "Would not
+that be rather more civil than sending us all away?"
 
 Sydney thought he would find another place: there were plenty along the
 bank.  He gathered up bait and basket, and trudged off.  There was an
@@ -2373,7 +2372,7 @@ Levitts', there were few evenings left; and on those few evenings they
 were never content to be alone.  They were always giving the young men
 encouragement to go in.  Mr Hope made quite a home house of Mr Grey's;
 and as for Philip, he seemed now to be more at Mr Grey's than even at
-his own mother's or Sister's.  Mrs Grey ought to remember how bad all
+his own mother's or sister's.  Mrs Grey ought to remember how bad all
 this was for a girl of Sophia's age.  It would completely spoil the
 excursion to Dingleford woods.  The young people knew one another so
 well by this time, that the novelty was all worn off, and they would
@@ -3274,7 +3273,7 @@ the delay which had caused an accumulation of tidings and of thoughts.
   leaving my sisters only a hundred pounds each as a remembrance.  He
   informed me of this, as soon as I arrived.  I thought him quite well
   enough to hear reason, and I spoke my mind plainly to him.  I had no
-  right to answer for you, any further than for your sense of Justice,
+  right to answer for you, any further than for your sense of justice,
   and your affection for your sisters.  The way in which the matter was
   settled at last, therefore, with great pains and trouble, was, that
   you and our sisters share equally, and that I have the legacy of 100
